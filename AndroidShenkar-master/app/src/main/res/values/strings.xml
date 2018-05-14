@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Trope App</string>
+    <string name="app_Calcname">Calculator</string>
+    <string name="app_Birthdayname">Birthday Checker</string>
+    <string name="dialog_successTitle">Success!</string>
+    <string name="dialog_deleteBirthdayContent">All the birthdays were cleared!</string>
+    <string name="dialog_OK">OK!</string>
+    <string name="dialog_addBirthday_nameError">The name is a required parameter</string>
+    <string name="dialog_addBirthday_successContent">Birthday Added</string>
+    <string name="dialog_addBirthday_successButton">Go Back!</string>
+    <string name="dialog_addBirthday_errorTitle">There was an error :(</string>
+    <string name="dialog_addBirthday_errorContent">Please contact us with the logs</string>
+    <string name="dialog_addBirthday_errorButton">Continue</string>
+</resources>
